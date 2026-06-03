@@ -1,0 +1,54 @@
+{
+  "user": {
+    "name": "Ganapathinathan",
+    "email": "guna123@gmail.com",
+    "password": "guna123",
+    "title": "Mr",
+    "dateOfBirth": {
+      "day": "15",
+      "month": "June",
+      "year": "1995"
+    },
+    "firstName": "Ganapathinathan",
+    "lastName": "Ragu",
+    "company": "TestCorp Inc",
+    "address1": "123 Main Street",
+    "address2": "Apt 4B",
+    "country": "India",
+    "state": "Tamilnadu",
+    "city": "Coimbatore",
+    "zipcode": "641045",
+    "mobileNumber": "+919551234567"
+  },
+  "message":{
+    "sub":"Know about Become a Seller",
+    "msg":"I am interested in becoming a seller on your platform. Please provide more information"
+  },
+  "loginValid": {
+    "email": "guna123@gmail.com",
+    "password": "guna123"
+  },
+  "loginInvalid": {
+    "email": "wronguser@fake.com",
+    "password": "WrongPass999"
+  },
+  "review": {
+    "name": "Gunaseelan",
+    "email": "gunaseelan123@mailnull.com",
+    "text": "Excellent product! Very high quality and fast delivery. Highly recommended."
+  },
+  "payment": {
+    "nameOnCard": "Ganapathinathan Ragu",
+    "cardNumber": "4111111111111111",
+    "cvc": "123",
+    "expiryMonth": "12",
+    "expiryYear": "2027"
+  },
+  "orderComment": "Please handle with care. Leave at the front door if no one is home.",
+  "urls": {
+    "home": "https://automationexercise.com/",
+    "login": "https://automationexercise.com/login",
+    "products": "https://automationexercise.com/products",
+    "cart": "https://automationexercise.com/view_cart"
+  }
+}

@@ -1,0 +1,18 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="16.536638">
+<testsuite name="automationExercise.spec.ts" timestamp="2026-05-18T13:01:54.245Z" hostname="chromium" tests="1" failures="0" skipped="0" time="8.129" errors="0">
+<testcase name="smoke2 › Test 2: Login User with Valid Credentials" classname="automationExercise.spec.ts" time="8.129">
+<system-out>
+<![CDATA[ Navigated to automationexercise.com
+ Home page is visible
+ Clicked Signup / Login
+ "Login to your account" is visible
+ Entered login email: guna123@gmail.com
+ Clicked Login button
+ Verified: Logged in as Ganapathinathan
+
+[[ATTACHMENT|..\test-results\automationExercise-smoke2--4d3f7-User-with-Valid-Credentials-chromium\test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

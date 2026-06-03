@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem \"c:\\\\Users\\\\2458010\\\\Downloads\\\\automation-exercise-playwright-ts\\\\AUTOMATION-EXERCISE-PLAYWRIGHT-TS\\\\\" | ForEach-Object { Move-Item $_.FullName \"c:\\\\Users\\\\2458010\\\\Downloads\\\\automation-exercise-playwright-ts\\\\\" -Force })"
+    ]
+  }
+}
