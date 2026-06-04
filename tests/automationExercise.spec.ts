@@ -22,7 +22,8 @@ test.describe('smoke1', () => {
     
     await home.verifyHomePageVisible();
     console.log(' Home page loaded successfully');
-
+      console.log(' Changes by Guniya');
+ 
     await home.clickSignupLogin();
     await login.verifyNewUserSignupVisible();
 
