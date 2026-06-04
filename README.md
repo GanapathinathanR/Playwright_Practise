@@ -65,8 +65,8 @@ npx playwright test -g "Test 1" --headed
 | 5a | Set quantity 4 on product detail → verify cart | HomePage, ProductsPage, CartPage |
 | 5b | Add 5 products → print names & qty to console | HomePage, ProductsPage, CartPage |
 | 6 | Write product review → verify success | HomePage, ProductsPage |
-| 7 | Checkout as new user → download invoice → delete account | all pages |
-| 8 | Checkout as new user (no invoice) → delete account | all pages |
+| 7 | Place order: add product → register during checkout → fill payment → confirm order → delete account |HomePage, CartPage, CheckoutPage, SignupPage, AccountPage, PaymentPage |
+| 8 |Contact Us: fill form (name, email, subject, message) → submit → verify success message| HomePage, ContactUsPage |
 
 ---
 
