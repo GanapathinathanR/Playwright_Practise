@@ -21,6 +21,7 @@ test.describe('smoke1', () => {
     await home.goto();
     
     await home.verifyHomePageVisible();
+    console.log(' Home page loaded successfully');
 
     await home.clickSignupLogin();
     await login.verifyNewUserSignupVisible();
